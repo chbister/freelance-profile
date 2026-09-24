@@ -1,0 +1,136 @@
+# ============================================================
+# macOS
+# ============================================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+
+# ============================================================
+# JetBrains / WebStorm
+# ============================================================
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Falls JetBrains-Dateien bereits irgendwo verschachtelt existieren
+**/.idea/
+
+
+# ============================================================
+# VS Code
+# ============================================================
+
+.vscode/
+
+
+# ============================================================
+# Codex / OpenAI - local configuration and working files
+# ============================================================
+
+.codex/
+.codex-*
+*.codex.local.*
+
+
+# ============================================================
+# Claude Code - local configuration and working files
+# ============================================================
+
+.claude/
+.claude-*
+*.claude.local.*
+
+
+# ============================================================
+# Local AI / Agent scratch files
+# ============================================================
+
+.ai/
+.agent/
+.agents/
+.tmp/
+temp/
+
+
+# ============================================================
+# Environment / Secrets
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+*.key
+*.pem
+*.p12
+*.pfx
+
+
+# ============================================================
+# Node / JavaScript
+# ============================================================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.yarn/
+.pnpm-store/
+
+
+# ============================================================
+# Jekyll / GitHub Pages
+# ============================================================
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+.bundle/
+vendor/
+
+
+# ============================================================
+# Logs / temporary files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.cache/
+
+
+# ============================================================
+# Local source material
+# Never publish CVs or private source documents
+# ============================================================
+
+private-context/
+source-material/
+local-documents/
+
+
+# ============================================================
+# PDF / Office source documents
+# Only enable these rules if such files should NEVER be public.
+# ============================================================
+
+# *.pdf
+# *.docx
+# *.xlsx
+
+# Local AI instructions
+AGENTS.md
+CLAUDE.md

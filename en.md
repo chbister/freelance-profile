@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Technical Product & Platform Lead
+title: Product & Platform Leadership | IT Leadership | Product Ownership
 lang: en
 permalink: /en/
 ---
 
 <div class="lang"><a href="{{ '/' | relative_url }}">DE</a> · <strong>EN</strong></div>
 
-# Technical Product & Platform Lead
+# Product & Platform Leadership | IT Leadership | Product Ownership
 
 **Product Development · Platforms · Leadership · AI · Software Engineering**
 
-> More than 20 years of experience at the intersection of technology, products, operations and organisations – from software engineering and enterprise infrastructure to digital products, AI/LLMs and automation.
+> More than 20 years of experience in leading IT organisations and developing products and platforms – from enterprise infrastructure and global services to digital products, AI/LLMs and automation.
 
 <div class="quicknav"><a href="#profile">Profile</a><a href="#focus">Focus</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#availability">Availability</a></div>
 
 ## Profile {#profile}
 
-I combine **product and platform responsibility**, **functional leadership of international expert teams** and more than two decades of enterprise IT experience with current hands-on work in software engineering, AI and automation.
+I combine **Product & Platform Leadership**, **IT Leadership** and extensive experience in leading international expert teams. My profile is defined by the responsibility for complex IT services and platforms, supported by a strong technical foundation in software engineering, AI and automation.
 
-My background spans software development, data-centre infrastructure, regulated financial IT, global middleware and platform services, and product ownership in healthcare. I connect user needs, technical feasibility, operations, security/compliance and commercial considerations to build sustainable solutions.
+My background spans software development, data-centre infrastructure, regulated financial IT, global middleware and platform services, and product ownership in healthcare. This technical depth enables me to work at eye level with developers, architects and infrastructure experts, connecting user needs, technical feasibility, operations, security/compliance and commercial considerations to build sustainable solutions.
 
 **My leadership approach:** establish clear goals and guardrails, involve experts early in problem-solving and decisions, and place responsibility where the relevant expertise resides. Standards should reduce complexity and create room for autonomous work.
 
@@ -27,7 +27,7 @@ My background spans software development, data-centre infrastructure, regulated 
 
 <div class="cards">
 <div class="card"><h3>Product & Platform</h3><p>Product Ownership · Product Strategy · Roadmaps · Backlogs · Requirements Engineering · Platform Management · Business & Cost Models</p></div>
-<div class="card"><h3>Technical Leadership</h3><p>Functional Leadership · International Expert Teams · Team Development · Stakeholder & Provider Management · Change & Transformation</p></div>
+<div class="card"><h3>IT Leadership & Organisation</h3><p>Leadership of IT teams · International Expert Teams · Team Development · Stakeholder & Provider Management · Change & Transformation</p></div>
 <div class="card"><h3>AI & Automation</h3><p>Generative AI · LLMs · RAG · Agentic AI · Python · n8n · APIs · Workflow Automation · AI-assisted Development & Testing</p></div>
 <div class="card"><h3>Software Engineering</h3><p>PHP · Laravel · Python · JavaScript/TypeScript · Vue.js · React/React Native · REST APIs · Playwright · Git</p></div>
 <div class="card"><h3>Enterprise IT & Operations</h3><p>ITIL · Enterprise Platforms · Middleware · Infrastructure · Service Management · Lifecycle · Security · Compliance · Audits</p></div>
@@ -36,7 +36,7 @@ My background spans software development, data-centre infrastructure, regulated 
 ## Professional Experience {#experience}
 
 ### Healthcare IT · Healthcare Network in Stuttgart
-**Product Owner / Technical Product Manager · 2021–2026**
+**Product Owner / Product Manager · 2021–2026**
 
 Responsible for strategy, roadmap, backlog and continuous development of a digital communication and workflow platform for healthcare practices and patients.
 
@@ -153,11 +153,11 @@ Development of own software products and selected customer solutions since 2003.
 
 Available for **freelance and interim assignments**, particularly in:
 
-- Technical Product Ownership & Product Management
+- Product Ownership & Product Management
 - Product & Platform Leadership
 - IT Platform Management
 - Interim IT / Product Management
-- Leadership and coordination of technical expert teams
+- Leadership of IT and expert teams
 - Digital transformation and platform modernisation
 - AI & workflow automation
 - IT Service Management

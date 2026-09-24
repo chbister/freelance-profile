@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Technical Product & Platform Lead
+title: Product & Platform Leadership | IT Leadership | Product Ownership
 lang: de
 ---
 
 <div class="lang"><strong>DE</strong> · <a href="{{ '/en/' | relative_url }}">EN</a></div>
 
-# Technical Product & Platform Lead
+# Product & Platform Leadership | IT Leadership | Product Ownership
 
 **Produktentwicklung · Plattformen · Führung · AI · Softwareentwicklung**
 
-> Mehr als 20 Jahre Erfahrung an der Schnittstelle von Technologie, Produkt, Betrieb und Organisation – von Softwareentwicklung und Enterprise-Infrastruktur bis zu digitalen Produkten, AI/LLM und Automatisierung.
+> Mehr als 20 Jahre Erfahrung in der Führung von IT-Organisationen und der Entwicklung von Produkten und Plattformen – von Enterprise-Infrastruktur und globalen Services bis zu digitalen Produkten, AI/LLM und Automatisierung.
 
 <div class="quicknav"><a href="#profil">Profil</a><a href="#schwerpunkte">Schwerpunkte</a><a href="#erfahrung">Erfahrung</a><a href="#projekte">Projekte</a><a href="#skills">Skills</a><a href="#verfuegbarkeit">Verfügbarkeit</a></div>
 
 ## Profil {#profil}
 
-Ich verbinde **Produkt- und Plattformverantwortung**, **fachliche Führung internationaler Expertenteams** und mehr als zwei Jahrzehnte Enterprise-IT-Erfahrung mit aktueller Hands-on-Praxis in Softwareentwicklung, AI und Automatisierung.
+Ich verbinde **Product & Platform Leadership**, **IT Leadership** und eine tiefgreifende Erfahrung in der Führung internationaler Expertenteams. Mein Profil ist geprägt durch die Verantwortung für komplexe IT-Services und Plattformen, gestützt auf ein starkes technisches Fundament in Softwareentwicklung, AI und Automatisierung.
 
-Mein beruflicher Weg reicht von Softwareentwicklung über Rechenzentrumsinfrastruktur, regulierte Finanz-IT, globale Middleware- und Plattformservices bis zur Produktverantwortung im Gesundheitswesen. Dabei verbinde ich Nutzerbedarf, technische Machbarkeit, Betrieb, Security/Compliance und Wirtschaftlichkeit zu tragfähigen Lösungen.
+Mein beruflicher Weg reicht von Softwareentwicklung über Rechenzentrumsinfrastruktur, regulierte Finanz-IT, globale Middleware- und Plattformservices bis zur Produktverantwortung im Gesundheitswesen. Diese technische Tiefe ermöglicht es mir, mit Entwicklern, Architekten und Infrastruktur-Experten auf Augenhöhe zu arbeiten und Nutzerbedarf, technische Machbarkeit, Betrieb, Security/Compliance und Wirtschaftlichkeit zu tragfähigen Lösungen zu verbinden.
 
 **Mein Führungsverständnis:** Ziele und Rahmenbedingungen klären, Experten früh in Lösungsfindung und Entscheidungen einbeziehen und Verantwortung dort verankern, wo das Fachwissen vorhanden ist. Standards sollen Komplexität reduzieren und Freiräume für eigenverantwortliches Arbeiten schaffen.
 
@@ -26,7 +26,7 @@ Mein beruflicher Weg reicht von Softwareentwicklung über Rechenzentrumsinfrastr
 
 <div class="cards">
 <div class="card"><h3>Product & Platform</h3><p>Product Ownership · Produktstrategie · Roadmaps · Backlog · Requirements Engineering · Plattformmanagement · Geschäfts- und Kostenmodelle</p></div>
-<div class="card"><h3>Technical Leadership</h3><p>Fachliche Führung · internationale Expertenteams · Teamentwicklung · Stakeholder- & Provider-Management · Change & Transformation</p></div>
+<div class="card"><h3>IT Leadership & Organisation</h3><p>Führung von IT-Teams · internationale Expertenteams · Teamentwicklung · Stakeholder- & Provider-Management · Change & Transformation</p></div>
 <div class="card"><h3>AI & Automation</h3><p>Generative AI · LLM · RAG · Agentic AI · Python · n8n · APIs · Workflow-Automatisierung · AI-gestützte Entwicklung & Tests</p></div>
 <div class="card"><h3>Software Development</h3><p>PHP · Laravel · Python · JavaScript/TypeScript · Vue.js · React/React Native · REST APIs · Playwright · Git</p></div>
 <div class="card"><h3>Enterprise IT & Operations</h3><p>ITIL · Enterprise-Plattformen · Middleware · Infrastruktur · Service Management · Lifecycle · Security · Compliance · Audits</p></div>
@@ -35,7 +35,7 @@ Mein beruflicher Weg reicht von Softwareentwicklung über Rechenzentrumsinfrastr
 ## Berufliche Erfahrung {#erfahrung}
 
 ### Healthcare IT · Ärzteverbund in Stuttgart
-**Product Owner / Technical Product Manager · 2021–2026**
+**Product Owner / Product Manager · 2021–2026**
 
 Verantwortung für Strategie, Roadmap, Backlog und Weiterentwicklung einer digitalen Kommunikations- und Workflow-Plattform für Arztpraxen und Patienten.
 
@@ -97,7 +97,7 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 - Workflow- und AI-Automatisierung mit n8n, APIs und LLMs
 - Automatisiertes Testing und Deployment
 - Cross-Platform-Mobile-Entwicklung für iOS und Android mit React Native
-- Evaluation und Umsetzung von Zahlungs-, Abonnement-, Lizenzierungs- und Monetarisierungsmodellen, u. a. mit Stripe und RevenueCat
+- Evaluation und Umsetzung von Zahlungs-, Abonnement, Lizenzierungs- und Monetarisierungsmodellen, u. a. mit Stripe und RevenueCat
 
 ## Ausgewählte Projekte & Ergebnisse {#projekte}
 
@@ -121,7 +121,7 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 
 <div class="case"><span class="eyebrow">AI & Automation</span><h3>Dokumenten- und Workflow-Automatisierung</h3><p>Entwicklung cloud-nativer Automatisierungslösungen mit Python, Docker, n8n, APIs und LLMs für Dokumentenanalyse und -verarbeitung sowie Integration von AI- und Softwarekomponenten.</p></div>
 
-<div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Geschäfts- und Abrechnungsdaten im öffentlichen Verkehr</h3><p>Migration einer proprietären Schnittstelle für Verkaufs-, Umsatz-, Statistik- und Abrechnungsdaten eines regionalen Verkehrsverbunds. Analyse der Legacy-Lösung, Entwicklung der neuen Schnittstelle, Parallelbetrieb, Testing und Abnahme mit dem Fachbereich; anschließend mehrjähriges Lifecycle-Management.</p><div class="metrics"><strong>18 Monate Migration</strong><strong>Mehrjähriger Betrieb</strong><strong>Legacy → neue Schnittstelle</strong></div></div>
+<div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Geschäfts- und Abrechnungsdaten im öffentlichen Verkehr</h3><p>Migration einer proprietären Schnittstelle für Verkaufs-, Umsatz, Statistik- und Abrechnungsdaten eines regionalen Verkehrsverbunds. Analyse der Legacy-Lösung, Entwicklung der neuen Schnittstelle, Parallelbetrieb, Testing und Abnahme mit dem Fachbereich; anschließend mehrjähriges Lifecycle-Management.</p><div class="metrics"><strong>18 Monate Migration</strong><strong>Mehrjähriger Betrieb</strong><strong>Legacy → neue Schnittstelle</strong></div></div>
 
 <div class="case"><span class="eyebrow">Mobile Product</span><h3>Cross-Platform-App</h3><p>Konzeption und End-to-End-Entwicklung einer mobilen Anwendung für iOS und Android inklusive Navigation, lokaler Datenhaltung, Internationalisierung, Abonnements und automatisierten Tests.</p><p><code>React Native</code> <code>TypeScript</code> <code>RevenueCat</code> <code>Jest</code></p></div>
 
@@ -158,11 +158,11 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 
 Verfügbar für **freiberufliche und Interim-Mandate**, insbesondere in:
 
-- Technical Product Ownership & Product Management
+- Product Ownership & Product Management
 - Product & Platform Leadership
 - IT Platform Management
 - Interim IT / Product Management
-- Führung und Koordination technischer Expertenteams
+- Führung von IT- und Expertenteams
 - Digitale Transformation und Plattformmodernisierung
 - AI & Workflow Automation
 - IT Service Management
