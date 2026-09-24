@@ -58,7 +58,8 @@ Long-term responsibility for global, business-critical enterprise platforms and 
 
 - Responsibility for middleware, messaging and file-transfer services supporting approximately **100,000 application interfaces**
 - Functional leadership of internationally distributed expert teams with up to 8 experts in India and 2 in Germany; several years as deputy team lead
-- Service, technology, release, lifecycle, SLA and provider management
+- Service, technology, release, lifecycle, SLA and provider management, including commercial service planning and budget responsibility
+- Demand intake across business units and translation into the future product/service roadmap
 - Development of technical standards, architecture concepts, self-service and automation approaches
 - Infrastructure standardisation and automation, reducing provisioning lead time from at least two weeks to approximately two days
 - Introduction and integration of big-data/analytics platforms and automated deployment processes
@@ -74,6 +75,7 @@ Long-term responsibility for global, business-critical enterprise platforms and 
 - Infrastructure project management and development of technical architecture and administration concepts
 - Participation in architecture and decision boards
 - Support for internal IT audits and security/compliance requirements
+- Infrastructure representation in architecture boards plus business-case analysis and investment planning for new platforms and technologies
 - Third-level support for complex technical incidents
 
 `Financial Services` `Windows Server` `Active Directory` `Infrastructure` `Architecture` `Audits`
@@ -86,8 +88,10 @@ Design and development of custom software solutions from requirements analysis t
 ### Independent / Freelance Work
 **Software Engineering · IT Consulting · Product Development · since 2003**
 
-Development of own software products and selected customer solutions. Current focus on modern web/mobile technologies, cloud-native automation and AI/LLM integration.
+Development of own software products and selected customer solutions since 2003. Work ranges from long-lived business-data integration solutions to modern web/mobile products, cloud-native automation and AI/LLM integration.
 
+- Development and long-term lifecycle management of a business-relevant sales and settlement data interface for a regional public transport organisation, including legacy analysis, migration, parallel operation, testing and business acceptance
+- Conception, development and publication of own mobile products; an early iPhone app reached more than 500 downloads without advertising
 - Full-stack development with PHP/Laravel, Vue.js and Python
 - REST APIs, integrations and data models
 - Containerised, stateless Python services and Docker-based operations
@@ -102,11 +106,17 @@ Development of own software products and selected customer solutions. Current fo
 
 <div class="case"><span class="eyebrow">Enterprise Platform</span><h3>Global Middleware Platform</h3><p>Responsibility for and modernisation of business-critical messaging and file-transfer services. Standardisation, automation and self-service reduced technical complexity for internal users.</p><div class="metrics"><strong>≈100,000 interfaces</strong><strong>Global operations</strong><strong>International teams</strong></div></div>
 
+<div class="case"><span class="eyebrow">Platform Modernisation</span><h3>Open Modular Management Platform</h3><p>Initiated and led the replacement of a proprietary monolithic management solution for a global middleware platform. Developed an open, modular architecture with interfaces for inventory, customer self-service, deployment, monitoring and central ITSM tooling.</p><div class="metrics"><strong>Initiator & Project Lead</strong><strong>Self-Service</strong><strong>ITSM Integration</strong></div></div>
+
+<div class="case"><span class="eyebrow">Operating Model</span><h3>Agile Service Platform & Product Thinking</h3><p>Contributed to a new data-centre service platform: target model, agile operating model and MVP involving experts from ten services and external developers. Introduced Product Owner roles with end-to-end responsibility.</p><div class="metrics"><strong>10 Services</strong><strong>MVP</strong><strong>Agile Transformation</strong></div></div>
+
 <div class="case"><span class="eyebrow">Automation</span><h3>Infrastructure Provisioning</h3><p>Standardisation and automation of infrastructure, provisioning and deployment processes together with international technical experts.</p><div class="metrics"><strong>≥2 weeks → ≈2 days</strong><strong>Self-service</strong><strong>Standardisation</strong></div></div>
 
 <div class="case"><span class="eyebrow">Data Platform</span><h3>Global Big-Data Platform</h3><p>Integrated an analytics/big-data platform with central IT and security standards and established an automated deployment process executable directly by development teams.</p><div class="metrics"><strong>Multiple deployments/day</strong><strong>DevOps</strong><strong>Hadoop / Big Data</strong></div></div>
 
 <div class="case"><span class="eyebrow">AI & Automation</span><h3>Document & Workflow Automation</h3><p>Development of cloud-native automation solutions using Python, Docker, n8n, APIs and LLMs for document analysis and processing, integrating AI and software components.</p></div>
+
+<div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Business & Settlement Data in Public Transport</h3><p>Migrated a proprietary interface for sales, revenue, statistics and settlement data for a regional public transport organisation. Analysed the legacy solution, developed the replacement interface, supported parallel operation, testing and business acceptance, followed by multi-year lifecycle management.</p><div class="metrics"><strong>18-month migration</strong><strong>Multi-year operation</strong><strong>Legacy → new interface</strong></div></div>
 
 <div class="case"><span class="eyebrow">Mobile Product</span><h3>Cross-Platform Application</h3><p>Product conception and end-to-end development of an iOS and Android application including navigation, local persistence, internationalisation, subscriptions and automated testing.</p><p><code>React Native</code> <code>TypeScript</code> <code>RevenueCat</code> <code>Jest</code></p></div>
 

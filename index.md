@@ -57,7 +57,8 @@ Langjährige Verantwortung für globale, geschäftskritische Enterprise-Plattfor
 
 - Verantwortung für Middleware-, Messaging- und File-Transfer-Services mit rund **100.000 Anwendungsschnittstellen**
 - Fachliche Führung international verteilter Expertenteams mit bis zu 8 Experten in Indien und 2 in Deutschland sowie mehrjährige Teamleitervertretung
-- Service-, Technologie-, Release-, Lifecycle-, SLA- und Provider-Management
+- Service-, Technologie-, Release-, Lifecycle-, SLA- und Provider-Management einschließlich kaufmännischer Serviceplanung und Budgetverantwortung
+- Aufnahme von Demands aus verschiedenen Unternehmensbereichen und Überführung in die zukünftige Produkt-/Service-Roadmap
 - Entwicklung technischer Standards, Architekturkonzepte, Self-Service- und Automatisierungsansätze
 - Infrastrukturstandardisierung und -automatisierung mit Verkürzung von Bereitstellungszeiten von mindestens zwei Wochen auf etwa zwei Tage
 - Einführung und Integration von Big-Data-/Analytics-Plattformen und automatisierten Deployment-Prozessen
@@ -73,6 +74,7 @@ Langjährige Verantwortung für globale, geschäftskritische Enterprise-Plattfor
 - Infrastrukturprojektleitung und Erstellung technischer Architektur- und Administrationskonzepte
 - Mitarbeit in Architektur- und Entscheidungsgremien
 - Begleitung interner IT-Audits und Security-/Compliance-Anforderungen
+- Vertretung der Infrastruktur in Architekturgremien sowie Wirtschaftlichkeitsanalysen und Investitionsplanung für neue Plattformen und Technologien
 - 3rd-Level-Support für komplexe technische Störungen
 
 `Financial Services` `Windows Server` `Active Directory` `Infrastructure` `Architecture` `Audits`
@@ -85,8 +87,10 @@ Konzeption und Entwicklung individueller Softwarelösungen von der Anforderungsa
 ### Selbständige / freiberufliche Tätigkeit
 **Softwareentwicklung · IT-Beratung · Produktentwicklung · seit 2003**
 
-Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen. Aktueller Schwerpunkt auf modernen Web-/Mobile-Technologien, cloud-nativer Automatisierung sowie AI-/LLM-Integration.
+Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003. Die Bandbreite reicht von langlebigen Integrationslösungen für Geschäftsdaten bis zu modernen Web-/Mobile-Produkten, cloud-nativer Automatisierung und AI-/LLM-Integration.
 
+- Entwicklung und langjähriges Lifecycle-Management einer geschäftsrelevanten Daten- und Abrechnungsschnittstelle für einen regionalen Verkehrsverbund – inklusive Legacy-Analyse, Migration, Parallelbetrieb, Testing und Fachbereichsabnahme
+- Konzeption, Entwicklung und Veröffentlichung eigener Mobile-Produkte; eine frühe iPhone-App erreichte ohne Werbung mehr als 500 Downloads
 - Full-Stack-Entwicklung mit PHP/Laravel, Vue.js und Python
 - REST APIs, Integrationen und Datenmodelle
 - Containerisierte, stateless Python-Services und Docker-basierter Betrieb
@@ -101,11 +105,23 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen. Aktuelle
 
 <div class="case"><span class="eyebrow">Enterprise Platform</span><h3>Globale Middleware-Plattform</h3><p>Verantwortung und Modernisierung geschäftskritischer Messaging- und File-Transfer-Services. Standardisierung, Automatisierung und Self-Service reduzierten technische Komplexität für interne Nutzer.</p><div class="metrics"><strong>≈100.000 Schnittstellen</strong><strong>Globaler Betrieb</strong><strong>Internationale Teams</strong></div></div>
 
-<div class="case"><span class="eyebrow">Automation</span><h3>Infrastruktur-Provisionierung</h3><p>Standardisierung und Automatisierung von Infrastruktur-, Provisionierungs- und Deployment-Prozessen gemeinsam mit internationalen Experten.</p><div class="metrics"><strong>≥2 Wochen → ≈2 Tage</strong><strong>Self-Service</strong><strong>Standardisierung</strong></div></div>
+<div class="case"><span class="eyebrow">Platform Modernisation</span><h3>Offene modulare Management-Plattform</h3><p>Initiierung und Projektleitung zur Ablösung einer proprietären monolithischen Verwaltungslösung für eine globale Middleware-Plattform. Entwicklung eines offenen, modularen Architekturkonzepts mit Schnittstellen für Inventarisierung, Kunden-Self-Service, Deployment, Monitoring und zentrale ITSM-Werkzeuge.</p><div class="metrics"><strong>Initiator & Projektleiter</strong><strong>Self-Service</strong><strong>ITSM-Integration</strong></div></div>
 
-<div class="case"><span class="eyebrow">Data Platform</span><h3>Globale Big-Data-Plattform</h3><p>Integration einer Analytics-/Big-Data-Plattform in zentrale IT- und Sicherheitsstandards sowie Aufbau eines automatisierten Deployment-Prozesses, den Entwicklungsteams selbst ausführen konnten.</p><div class="metrics"><strong>Deployments mehrfach täglich</strong><strong>DevOps</strong><strong>Hadoop / Big Data</strong></div></div>
+<div class="case"><span class="eyebrow">Operating Model</span><h3>Agile Service-Plattform & Product Thinking</h3><p>Mitgestaltung einer neuen Rechenzentrums-Service-Plattform: Zielbild, agiles Arbeitsmodell und MVP mit Fachexperten aus zehn Services und externen Entwicklern. Einführung von Product-Owner-Rollen mit Ende-zu-Ende-Verantwortung.</p><div class="metrics"><strong>10 Services</strong><strong>MVP</strong><strong>Agile Transformation</strong></div></div>
+
+<div class="case"><span class="eyebrow">Automation</span><h3>Datacenter-Automatisierung & Provisionierung</h3><p>Projektleitung für die Standardisierung und Automatisierung von Infrastruktur-, Provisionierungs- und Genehmigungsprozessen. Use Cases wurden analysiert, priorisiert und gemeinsam mit internen Services und externen Entwicklern umgesetzt.</p><div class="metrics"><strong>Ø 20 → &lt;5 Arbeitstage</strong><strong>Self-Service</strong><strong>Standardisierung</strong></div></div>
+
+<div class="case"><span class="eyebrow">Cost & Service Transformation</span><h3>SAP-Service-Modernisierung</h3><p>Analyse, Provider-Auswahl und Steuerung der Migration einer bestehenden Kommunikationslösung auf einen hochverfügbaren Managed Service für geschäftskritische SAP-Systeme.</p><div class="metrics"><strong>75 SAP-Systeme</strong><strong>≈50 % jährliche Kosteneinsparung</strong><strong>Managed Service</strong></div></div>
+
+<div class="case"><span class="eyebrow">Infrastructure Transformation</span><h3>Virtualisierung & Konsolidierung</h3><p>Solution Architecture, Wirtschaftlichkeitsanalyse und Migrationskonzept für die Einführung einer virtualisierten Serverplattform als neuer Infrastrukturstandard im Finanzdienstleistungsumfeld.</p><div class="metrics"><strong>20 → 5 Servermodelle</strong><strong>VMware</strong><strong>Budgetreduktion</strong></div></div>
+
+<div class="case"><span class="eyebrow">Data Platform</span><h3>Zentrale Big-Data-Plattform</h3><p>Projektleitung Infrastruktur für eine zentrale Hadoop-basierte Big-Data-Lösung: Bedarfsanalyse mit Pilotbereichen, Technologieevaluation, Architektur, Abstimmung mit CIO-Steuerkreis und Stakeholdern sowie Aufbau einer Serviceorganisation in Indien. Konzepte wurden später für dezentrale Lösungen in USA und China wiederverwendet.</p><div class="metrics"><strong>Hadoop / Big Data</strong><strong>Internationales Betriebsmodell</strong><strong>USA & China Reuse</strong></div></div>
+
+<div class="case"><span class="eyebrow">Cloud & PaaS</span><h3>Private Cloud / PaaS Proof of Concept</h3><p>Projektleitung für einen standardisierten On-Prem-PaaS-Stack inklusive IaaS-Service und IaaS-/PaaS-Schnittstellen. Der PoC zeigte zugleich die organisatorische Grenze der Automatisierung: Nicht ausreichend digitalisierte Geschäfts- und Genehmigungsprozesse verhinderten damals die Weiterentwicklung.</p><div class="metrics"><strong>On-Prem PaaS</strong><strong>IaaS Integration</strong><strong>Proof of Concept</strong></div></div>
 
 <div class="case"><span class="eyebrow">AI & Automation</span><h3>Dokumenten- und Workflow-Automatisierung</h3><p>Entwicklung cloud-nativer Automatisierungslösungen mit Python, Docker, n8n, APIs und LLMs für Dokumentenanalyse und -verarbeitung sowie Integration von AI- und Softwarekomponenten.</p></div>
+
+<div class="case"><span class="eyebrow">Freelance · Data Integration</span><h3>Geschäfts- und Abrechnungsdaten im öffentlichen Verkehr</h3><p>Migration einer proprietären Schnittstelle für Verkaufs-, Umsatz-, Statistik- und Abrechnungsdaten eines regionalen Verkehrsverbunds. Analyse der Legacy-Lösung, Entwicklung der neuen Schnittstelle, Parallelbetrieb, Testing und Abnahme mit dem Fachbereich; anschließend mehrjähriges Lifecycle-Management.</p><div class="metrics"><strong>18 Monate Migration</strong><strong>Mehrjähriger Betrieb</strong><strong>Legacy → neue Schnittstelle</strong></div></div>
 
 <div class="case"><span class="eyebrow">Mobile Product</span><h3>Cross-Platform-App</h3><p>Konzeption und End-to-End-Entwicklung einer mobilen Anwendung für iOS und Android inklusive Navigation, lokaler Datenhaltung, Internationalisierung, Abonnements und automatisierten Tests.</p><p><code>React Native</code> <code>TypeScript</code> <code>RevenueCat</code> <code>Jest</code></p></div>
 
