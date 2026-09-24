@@ -1,19 +1,18 @@
 ---
 layout: default
-title: Product & Platform Leadership | IT Leadership | Product Ownership
+title: Technical Product & Platform Lead | Interim Management
 lang: en
 permalink: /en/
 ---
 
 <div class="lang"><a href="{{ '/' | relative_url }}">DE</a> · <strong>EN</strong></div>
 
-# Product & Platform Leadership | IT Leadership | Product Ownership
+# Technical Product & Platform Lead
+**Interim Product Leadership · Product Ownership · IT Platforms**
 
-**Product Development · Platforms · Leadership · AI · Software Engineering**
+> Temporary responsibility for digital products and IT platforms – from product strategy and delivery to leading interdisciplinary expert teams and technical transformation.
 
-> More than 20 years of experience in leading IT organisations and developing products and platforms – from enterprise infrastructure and global services to digital products, AI/LLMs and automation.
-
-<div class="quicknav"><a href="#profile">Profile</a><a href="#focus">Focus</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#availability">Availability</a></div>
+<div class="quicknav"><a href="#profile">Profile</a><a href="#interim">Interim Support</a><a href="#focus">Focus</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#availability">Availability</a></div>
 
 ## Profile {#profile}
 
@@ -22,6 +21,16 @@ I combine **Product & Platform Leadership**, **IT Leadership** and extensive exp
 My background spans software development, data-centre infrastructure, regulated financial IT, global middleware and platform services, and product ownership in healthcare. This technical depth enables me to work at eye level with developers, architects and infrastructure experts, connecting user needs, technical feasibility, operations, security/compliance and commercial considerations to build sustainable solutions.
 
 **My leadership approach:** establish clear goals and guardrails, involve experts early in problem-solving and decisions, and place responsibility where the relevant expertise resides. Standards should reduce complexity and create room for autonomous work.
+
+## Interim Engagement Scenarios {#interim}
+
+I provide temporary support in critical phases to assume responsibility, stabilise processes, or drive transformation:
+
+<div class="cards">
+<div class="card"><h3>Interim Product & Platform Leadership</h3><p>Taking over product or platform responsibility during vacancies, rapid growth, or peak loads. Focus: Product Ownership, roadmap, prioritisation, stakeholder management and delivery.</p></div>
+<div class="card"><h3>IT Platform & Transformation</h3><p>Modernisation and organisational realignment of technical platforms. Connecting product vision, software engineering, architecture, operations and management.</p></div>
+<div class="card"><h3>Transition & Stabilisation</h3><p>Responsibility during transition periods (reorganisations, vendor changes, handovers). Clarifying structures and ensuring a clean transfer to permanent internal ownership.</p></div>
+</div>
 
 ## Focus {#focus}
 
@@ -149,20 +158,16 @@ Development of own software products and selected customer solutions since 2003.
 
 `Healthcare IT` `Automotive` `Financial Services` `Enterprise IT` `Software & Digital Products`
 
-## Availability {#availability}
+## Need Interim Support? {#availability}
 
-Available for **freelance and interim assignments**, particularly in:
+Available for **interim and freelance assignments** in Product Ownership, Product & Platform Leadership and IT Transformation.
 
-- Product Ownership & Product Management
-- Product & Platform Leadership
-- IT Platform Management
-- Interim IT / Product Management
-- Leadership of IT and expert teams
-- Digital transformation and platform modernisation
-- AI & workflow automation
-- IT Service Management
-- Enterprise integration & middleware
-- Software and product development
+Ideally suited for situations such as:
+- temporary gap in product or platform responsibility
+- bridging a vacancy
+- strategic transformation of technical platforms
+- stabilisation of a product or platform
+- structured handover to internal ownership
 
 **Stuttgart region · Remote · Hybrid · On-site by arrangement · available for international collaboration**
 

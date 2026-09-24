@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Product & Platform Leadership | IT Leadership | Product Ownership
+title: Technical Product & Platform Lead | Interim Management
 lang: de
 ---
 
 <div class="lang"><strong>DE</strong> · <a href="{{ '/en/' | relative_url }}">EN</a></div>
 
-# Product & Platform Leadership | IT Leadership | Product Ownership
+# Technical Product & Platform Lead
+**Interim Product Leadership · Product Ownership · IT Platforms**
 
-**Produktentwicklung · Plattformen · Führung · AI · Softwareentwicklung**
+> Temporäre Verantwortung für digitale Produkte und IT-Plattformen – von der Produktstrategie und Delivery bis zur Führung interdisziplinärer Expertenteams und technischen Transformation.
 
-> Mehr als 20 Jahre Erfahrung in der Führung von IT-Organisationen und der Entwicklung von Produkten und Plattformen – von Enterprise-Infrastruktur und globalen Services bis zu digitalen Produkten, AI/LLM und Automatisierung.
-
-<div class="quicknav"><a href="#profil">Profil</a><a href="#schwerpunkte">Schwerpunkte</a><a href="#erfahrung">Erfahrung</a><a href="#projekte">Projekte</a><a href="#skills">Skills</a><a href="#verfuegbarkeit">Verfügbarkeit</a></div>
+<div class="quicknav"><a href="#profil">Profil</a><a href="#interim">Interim-Einsatz</a><a href="#schwerpunkte">Schwerpunkte</a><a href="#erfahrung">Erfahrung</a><a href="#projekte">Projekte</a><a href="#skills">Skills</a><a href="#verfuegbarkeit">Verfügbarkeit</a></div>
 
 ## Profil {#profil}
 
@@ -21,6 +20,16 @@ Ich verbinde **Product & Platform Leadership**, **IT Leadership** und eine tiefg
 Mein beruflicher Weg reicht von Softwareentwicklung über Rechenzentrumsinfrastruktur, regulierte Finanz-IT, globale Middleware- und Plattformservices bis zur Produktverantwortung im Gesundheitswesen. Diese technische Tiefe ermöglicht es mir, mit Entwicklern, Architekten und Infrastruktur-Experten auf Augenhöhe zu arbeiten und Nutzerbedarf, technische Machbarkeit, Betrieb, Security/Compliance und Wirtschaftlichkeit zu tragfähigen Lösungen zu verbinden.
 
 **Mein Führungsverständnis:** Ziele und Rahmenbedingungen klären, Experten früh in Lösungsfindung und Entscheidungen einbeziehen und Verantwortung dort verankern, wo das Fachwissen vorhanden ist. Standards sollen Komplexität reduzieren und Freiräume für eigenverantwortliches Arbeiten schaffen.
+
+## Interim-Einsatzszenarien {#interim}
+
+Ich unterstütze Unternehmen temporär in kritischen Phasen, um Verantwortung zu übernehmen, Prozesse zu stabilisieren oder Transformationen voranzutreiben:
+
+<div class="cards">
+<div class="card"><h3>Interim Product & Platform Leadership</h3><p>Übernahme der Produkt- oder Plattformverantwortung bei Vakanzen, starkem Wachstum oder Überlastung. Fokus: Product Ownership, Roadmap, Priorisierung, Stakeholder-Management und Delivery.</p></div>
+<div class="card"><h3>IT Platform & Transformation</h3><p>Modernisierung und organisatorische Neuaufstellung technischer Plattformen. Verbindung von Produktvision, Softwareentwicklung, Architektur, Betrieb und Management.</p></div>
+<div class="card"><h3>Transition & Stabilisierung</h3><p>Verantwortung in Veränderungssituationen (Reorganisationen, Dienstleisterwechsel, Übergaben). Klärung von Strukturen und Sicherstellung einer sauberen Übergabe an die interne Organisation.</p></div>
+</div>
 
 ## Schwerpunkte {#schwerpunkte}
 
@@ -154,20 +163,16 @@ Entwicklung eigener Softwareprodukte und ausgewählter Kundenlösungen seit 2003
 
 `Healthcare IT` `Automotive` `Financial Services` `Enterprise IT` `Software & Digital Products`
 
-## Verfügbarkeit {#verfuegbarkeit}
+## Interim-Unterstützung gesucht? {#verfuegbarkeit}
 
-Verfügbar für **freiberufliche und Interim-Mandate**, insbesondere in:
+Verfügbar für **Interim- und Freelance-Mandate** in Product Ownership, Product & Platform Leadership und IT-Transformation.
 
-- Product Ownership & Product Management
-- Product & Platform Leadership
-- IT Platform Management
-- Interim IT / Product Management
-- Führung von IT- und Expertenteams
-- Digitale Transformation und Plattformmodernisierung
-- AI & Workflow Automation
-- IT Service Management
-- Enterprise Integration & Middleware
-- Software- und Produktentwicklung
+Besonders geeignet für Situationen wie:
+- kurzfristig fehlende Produkt- oder Plattformverantwortung
+- Überbrückung einer Vakanz
+- strategische Transformation technischer Plattformen
+- Stabilisierung eines Produkts oder einer Plattform
+- strukturierte Übergabe an eine interne Verantwortung
 
 **Region Stuttgart · Remote · Hybrid · Vor Ort nach Vereinbarung · internationale Zusammenarbeit möglich**
 
